@@ -6,11 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "MANTHANKIRTAN89.aternos.me
-",
-    "port": 38279
-
-,
+    "ip": "MANTHANKIRTAN89.aternos.me",
+    "port": 38279,
     "version": "",
     "try-creative": false
   },
